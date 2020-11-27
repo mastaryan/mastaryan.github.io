@@ -2247,6 +2247,18 @@ input, select, textarea {
 				background-color: #323459;
 			}
 
+			.panel > *.color2a {
+				background-image: url("../../images/overlay.png"), linear-gradient(45deg, rgba(114, 97, 147, 0.25) 25%, rgba(227, 123, 124, 0.25) 50%, rgba(255, 228, 180, 0.25));
+				background-size: 128px 128px, auto;
+				background-color: #d63d40;
+			}
+
+			.panel > *.color2b {
+				background-image: url("../../images/overlay.png"), linear-gradient(45deg, rgba(114, 97, 147, 0.25) 25%, rgba(227, 123, 124, 0.25) 50%, rgba(255, 228, 180, 0.25));
+				background-size: 128px 128px, auto;
+				background-color: #681168;
+			}
+
 		.panel > .intro {
 			padding: 3.5rem 3.5rem 2rem 3.5rem ;
 			display: -moz-flex;
@@ -2822,6 +2834,18 @@ input, select, textarea {
 				background-color: #323459;
 			}
 
+			.panel > *.color2a {
+				background-image: url("../../images/overlay.png"), linear-gradient(45deg, rgba(114, 97, 147, 0.25) 25%, rgba(227, 123, 124, 0.25) 50%, rgba(255, 228, 180, 0.25));
+				background-size: 128px 128px, auto;
+				background-color: #d63d40;
+			}
+
+			.panel > *.color2b {
+				background-image: url("../../images/overlay.png"), linear-gradient(45deg, rgba(114, 97, 147, 0.25) 25%, rgba(227, 123, 124, 0.25) 50%, rgba(255, 228, 180, 0.25));
+				background-size: 128px 128px, auto;
+				background-color: #681168;
+			}
+
 			.panel > .intro {
 				padding: 2.8875rem 1.75rem 1.3875rem 1.75rem ;
 				width: 100% !important;
@@ -3247,6 +3271,18 @@ input, select, textarea {
 				background-image: url("../../images/overlay.png"), linear-gradient(135deg, rgba(114, 97, 147, 0.175) 25%, rgba(227, 123, 124, 0.175) 50%, rgba(255, 228, 180, 0.175));
 				background-size: 128px 128px, auto;
 				background-color: #323459;
+			}
+
+			.panel > *.color2a {
+				background-image: url("../../images/overlay.png"), linear-gradient(45deg, rgba(114, 97, 147, 0.25) 25%, rgba(227, 123, 124, 0.25) 50%, rgba(255, 228, 180, 0.25));
+				background-size: 128px 128px, auto;
+				background-color: #d63d40;
+			}
+
+			.panel > *.color2b {
+				background-image: url("../../images/overlay.png"), linear-gradient(45deg, rgba(114, 97, 147, 0.25) 25%, rgba(227, 123, 124, 0.25) 50%, rgba(255, 228, 180, 0.25));
+				background-size: 128px 128px, auto;
+				background-color: #681168;
 			}
 
 	}
